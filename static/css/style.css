@@ -106,12 +106,16 @@ ul.nav {
 	margin: 6px 0px 0px 0px;
 	list-style: none;
 }
-
+/*
 ul.nav li {
 	padding: 4px 0px 0px 0px;
 	font-size: 14px;
 }
-
+*/
+ul.nav li {
+	padding: 4px 0px 5px 0px;
+	font-size: 18px;
+}
 .sl {
 	padding: 3px;
 	-moz-border-radius: 5px;
